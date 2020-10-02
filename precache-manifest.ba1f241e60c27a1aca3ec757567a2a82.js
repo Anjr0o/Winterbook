@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36e66495534d6f2b94b6b61464361294",
+    "revision": "8e7f244fade3006b15e68a4bd83ceae4",
     "url": "/Winterbook/index.html"
   },
   {
