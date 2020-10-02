@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/winterbook/static/css/main.260cdc60.chunk.css",
+    "main.js": "/winterbook/static/js/main.fe7a5120.chunk.js",
+    "main.js.map": "/winterbook/static/js/main.fe7a5120.chunk.js.map",
+    "runtime-main.js": "/winterbook/static/js/runtime-main.99b6412d.js",
+    "runtime-main.js.map": "/winterbook/static/js/runtime-main.99b6412d.js.map",
+    "static/js/2.dcc31892.chunk.js": "/winterbook/static/js/2.dcc31892.chunk.js",
+    "static/js/2.dcc31892.chunk.js.map": "/winterbook/static/js/2.dcc31892.chunk.js.map",
+    "index.html": "/winterbook/index.html",
+    "precache-manifest.379288bdb303039973646885509254fb.js": "/winterbook/precache-manifest.379288bdb303039973646885509254fb.js",
+    "service-worker.js": "/winterbook/service-worker.js",
+    "static/css/main.260cdc60.chunk.css.map": "/winterbook/static/css/main.260cdc60.chunk.css.map",
+    "static/js/2.dcc31892.chunk.js.LICENSE.txt": "/winterbook/static/js/2.dcc31892.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99b6412d.js",
+    "static/js/2.dcc31892.chunk.js",
+    "static/css/main.260cdc60.chunk.css",
+    "static/js/main.fe7a5120.chunk.js"
+  ]
+}
