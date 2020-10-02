@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://source.unsplash.com/collection/184253");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+}
+
+.phoneBook {
+  background-color: white;
+  opacity: 0.75;
+  padding: 50px;
+  border-radius: 25px;
+  height: 575px;
+  margin: 50px;
+}
+
+.table {
+  background-color: white;
+  opacity: 0.75;
+  padding: 50px;
+  border-radius: 25px;
+  margin: 50px;
+}
