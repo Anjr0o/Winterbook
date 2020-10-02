@@ -1,6 +1,6 @@
 {
-  "homepage": "http://anjr0o.github.io/winterbook",
-  "name": "react-phone-book",
+  "homepage": "http://anjr0o.github.io/Winterbook",
+  "name": "winterbook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
