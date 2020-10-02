@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Winterbook/static/css/main.260cdc60.chunk.css",
-    "main.js": "/Winterbook/static/js/main.dfc0423c.chunk.js",
-    "main.js.map": "/Winterbook/static/js/main.dfc0423c.chunk.js.map",
-    "runtime-main.js": "/Winterbook/static/js/runtime-main.9a0707d0.js",
-    "runtime-main.js.map": "/Winterbook/static/js/runtime-main.9a0707d0.js.map",
-    "static/js/2.535f48a6.chunk.js": "/Winterbook/static/js/2.535f48a6.chunk.js",
-    "static/js/2.535f48a6.chunk.js.map": "/Winterbook/static/js/2.535f48a6.chunk.js.map",
+    "main.js": "/Winterbook/static/js/main.06ac9ae1.chunk.js",
+    "main.js.map": "/Winterbook/static/js/main.06ac9ae1.chunk.js.map",
+    "runtime-main.js": "/Winterbook/static/js/runtime-main.ad24384a.js",
+    "runtime-main.js.map": "/Winterbook/static/js/runtime-main.ad24384a.js.map",
+    "static/js/2.2c1fbe0b.chunk.js": "/Winterbook/static/js/2.2c1fbe0b.chunk.js",
+    "static/js/2.2c1fbe0b.chunk.js.map": "/Winterbook/static/js/2.2c1fbe0b.chunk.js.map",
     "index.html": "/Winterbook/index.html",
-    "precache-manifest.19c44d7a670b9123a5feed22ab7fb05a.js": "/Winterbook/precache-manifest.19c44d7a670b9123a5feed22ab7fb05a.js",
+    "precache-manifest.e5a71f1b329ed38655577f65e33a85fa.js": "/Winterbook/precache-manifest.e5a71f1b329ed38655577f65e33a85fa.js",
     "service-worker.js": "/Winterbook/service-worker.js",
     "static/css/main.260cdc60.chunk.css.map": "/Winterbook/static/css/main.260cdc60.chunk.css.map",
-    "static/js/2.535f48a6.chunk.js.LICENSE.txt": "/Winterbook/static/js/2.535f48a6.chunk.js.LICENSE.txt"
+    "static/js/2.2c1fbe0b.chunk.js.LICENSE.txt": "/Winterbook/static/js/2.2c1fbe0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a0707d0.js",
-    "static/js/2.535f48a6.chunk.js",
+    "static/js/runtime-main.ad24384a.js",
+    "static/js/2.2c1fbe0b.chunk.js",
     "static/css/main.260cdc60.chunk.css",
-    "static/js/main.dfc0423c.chunk.js"
+    "static/js/main.06ac9ae1.chunk.js"
   ]
 }

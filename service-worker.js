@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Winterbook/precache-manifest.19c44d7a670b9123a5feed22ab7fb05a.js"
+  "/Winterbook/precache-manifest.e5a71f1b329ed38655577f65e33a85fa.js"
 );
 
 self.addEventListener('message', (event) => {
